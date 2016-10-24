@@ -1,0 +1,11 @@
+com\allin\application\AllinApplication.class
+com\allin\files\resources\FileResource.class
+com\allin\files\resources\FileResource$1.class
+com\allin\files\solr\SolrService.class
+com\allin\files\repository\SolrRepo.class
+com\allin\application\MediaStreamer.class
+com\allin\files\repository\Documenter.class
+com\allin\files\resources\FileResource$2.class
+com\allin\files\model\VideoDocument.class
+com\allin\files\model\SPath.class
+com\allin\files\model\Document.class

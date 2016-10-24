@@ -1,0 +1,18 @@
+.wrapper_with_padding{
+	margin-left: 10rem;
+
+}
+.videoWrapper:hover{
+	cursor: pointer;
+
+}
+.
+.videoWrapper{
+	margin-top: 2rem;
+	background-color: Teal;
+	color:white;
+	border-bottom: 5px solid white;
+	width:20%;
+	padding: 2rem;
+	border-radius: 0.7rem;
+}
